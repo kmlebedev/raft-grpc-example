@@ -28,3 +28,5 @@ require (
 	golang.org/x/text v0.3.2 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 )
+
+replace github.com/boltdb/bolt => github.com/kmlebedev/bolt v0.0.0-20220829105445-d4fe22e45ea9
